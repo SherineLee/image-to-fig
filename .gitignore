@@ -7,6 +7,9 @@ node_modules.broken*/
 # 构建产物（npm run build 可再生成）
 engine/dist/
 
+# Swift 编译产物（setup-mac.sh 会重新编译）
+tools/vision-ocr
+
 # 运行产物
 output/*.fig
 output/*.json
