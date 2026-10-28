@@ -1,0 +1,4 @@
+[
+  { "name": "logo",   "x": 24,  "y": 18,  "width": 160, "height": 48 },
+  { "name": "banner", "x": 200, "y": 120, "width": 640, "height": 360 }
+]

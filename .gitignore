@@ -1,0 +1,18 @@
+# 依赖（59 MB，换机器后 npm install 重新装）
+node_modules/
+engine/node_modules/
+node_modules.broken*/
+.broken-*/
+
+# 构建产物（npm run build 可再生成）
+engine/dist/
+
+# 运行产物
+output/*.fig
+output/*.json
+
+# 系统 / 编辑器
+.DS_Store
+*.log
+.env
+.env.local
